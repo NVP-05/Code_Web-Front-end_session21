@@ -1,0 +1,3 @@
+// Switch - case sẽ giúp cấu trúc chương trình rõ ràng, dễ đọc, dễ hiểu hơn so với if-else.
+// Switch - case sẽ kiểm tra 1 biến để thực hiện 100 trường hợp khác nhau, còn if else phải kiểm tra 100 điều kiện để thực hiện 100 trường hợp khác nhau.
+// Giả sử số điều kiện lên đến 1000, nếu sử dụng if-else thì R.I.P cho anh lập trình viên ^^, vì phải viết rất nhiều biểu thức điều kiện có thể gây ra những nhầm lẫn không đáng có.
